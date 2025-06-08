@@ -121,7 +121,7 @@ https://github.com/user-attachments/assets/6b87cdac-52cc-45a9-8391-2a920e529223
 
 
 
-**KAYBETME**
+**KAYBETME.**
 
 
 
