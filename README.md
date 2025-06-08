@@ -111,7 +111,7 @@ Python'da arayüz kullanarak kelime tahmin etme oyunu yapımı. (harf, süre, ip
 
 *- 2025-05-20 10:41 | KAYBETTİ | uzay görevi | 62 saniye*
 
-**KAZANMA**
+**KAZANMA.**
 
 
 
